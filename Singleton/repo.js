@@ -12,4 +12,4 @@ var repo = function(){
     save: save
   }
 }
-module.exports = repo;
+module.exports = repo();
